@@ -48,7 +48,7 @@ function HomePage({ setExercise }) {
             <article>
                 <h2>List of Exercises</h2>
                 <p>Down below are a list of previously logged workouts.</p>
-                <p>If you would like to add or adjust entries, utilize the buttons above or below.</p>
+                <p>If you would like to add or adjust entries, utilize the buttons down below.</p>
                 <ExerciseList 
                     exercises={exercises} 
                     onEdit={onEditExercise} 

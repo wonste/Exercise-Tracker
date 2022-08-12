@@ -7,7 +7,6 @@ function Navigation() {
     <nav>
         <Link to="/">Home</Link>
         <Link to="../add-exercise">Add Exercise</Link>
-        <Link to="../edit-exercise">Edit Exercise</Link>
     </nav>
   );
 }
